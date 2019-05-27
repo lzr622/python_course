@@ -62,7 +62,6 @@ def login(un,psd,url,page):
     res = requests.Session()
     r = res.post(url,data=data).text
     bs = BeautifulSoup(r,'lxml')
-    url1 = url
     if bs.find('a','top_reg'):
         msg1 = '密码错了老弟,重新输'
         msg2 = '似不似撒,密码都记不住,重新输'
@@ -73,7 +72,8 @@ def login(un,psd,url,page):
         usrn = input('请输入内网账号:')
         psd = input('请输入账号密码:')
         page = page
-        login(usrn,psd,url1,page)
+        url1 = url
+        return login(usrn,psd,url1,page)
     else:
         print('连接成功')
         return res
