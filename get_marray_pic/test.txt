@@ -1,0 +1,415 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>提示信息 -  内网 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",内网" />
+<meta name="generator" content="Discuz! X3" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://10.0.0.3:8083/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?GMO" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'GMO', charset = 'utf-8', discuz_uid = '3843', cookiepre = '0cp5_2132_', cookiedomain = '', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'newthread|reply', creditnotice = '1|威望|,2|金钱|,3|贡献|,8|视频|个', defaultstyle = '', REPORTURL = 'aHR0cDovLzEwLjAuMC4zOjgwODMvbWVtYmVyLnBocD9tb2Q9bG9nZ2luZyZhY3Rpb249bG9naW4mbG9naW5zdWJtaXQ9eWVzJmxvZ2luaGFzaD1MRXNMOA==', SITEURL = 'http://10.0.0.3:8083/', JSPATH = 'static/js/', DYNAMICURL = '';</script>
+<script src="static/js/common.js?GMO" type="text/javascript"></script>
+<meta name="application-name" content="内网" />
+<meta name="msapplication-tooltip" content="内网" />
+<meta name="msapplication-task" content="name=首页;action-uri=http://10.0.0.3:8083/portal.php;icon-uri=http://10.0.0.3:8083/static/image/common/portal.ico" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://10.0.0.3:8083/forum.php;icon-uri=http://10.0.0.3:8083/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=群组;action-uri=http://10.0.0.3:8083/group.php;icon-uri=http://10.0.0.3:8083/static/image/common/group.ico" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=8" >
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+<script language="javascript" type="text/javascript">
+<!-- 
+if (top.location != self.location)top.location=self.location;
+// -->
+</script>
+<script language="javascript" type="text/javascript">
+function killErrors() {
+return true;
+}
+window.onerror = killErrors;
+</script>
+</head>
+
+
+<body id="nv_member" class="pg_logging" onkeydown="if(event.keyCode==27) return false;">
+
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+ 
+ 
+ 
+ 
+ 
+
+
+
+<div class="top_head wp">
+<div id="toptb" class="cl"> 
+    <div class="wp">
+    <div class="z"> 
+       
+      <a href="javascript:;"  onclick="setHomepage('http://10.0.0.3:8083/');">设为首页</a> 
+       
+      <a href="http://10.0.0.3:8083/"  onclick="addFavorite(this.href, '内网');return false;">收藏本站</a> 
+       
+      <a href="http://10.0.0.3:8083/forum.php?mod=viewthread&tid=8230" >使用说明</a> 
+       
+       
+    </div>
+    <div class="y"> 
+      
+      
+      <a id="switchblind" href="javascript:;" onClick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a> 
+      
+       
+       
+      
+       
+      
+      <strong > <a class="avts" href="/home.php?mod=space&amp;uid=3843" ><img src="http://10.0.0.3:8083/uc_server/avatar.php?uid=3843&size=small" /></a> <a href="/home.php?mod=space&amp;uid=3843" target="_blank" title="访问我的空间">2005536</a> </strong> 
+      
+       
+      
+       
+      
+      <span class="pipe">|</span><a href="home.php?mod=spacecp">设置</a> <span class="pipe">|</span><a href="home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a> <span class="pipe">|</span><a href="home.php?mod=space&amp;do=notice" id="myprompt" onMouseOver="showMenu({'ctrlid':'myprompt'});">提醒</a><span id="myprompt_check"></span> 
+       
+       
+      
+       
+      
+       
+       
+       
+       
+      <span class="pipe">|</span><a href="/member.php?mod=logging&amp;action=logout&amp;formhash=b371ca8d">退出</a> 
+      
+       
+      
+      <a href="/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onMouseOver="delayShow(this, showCreditmenu);" class="showmenu">积分: 317</a> <span class="pipe">|</span><a href="home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onMouseOver="delayShow(this, showUpgradeinfo)"> 黎明骑士</a> 
+      <!--
+        --> 
+      
+      <a href="javascript:;" id="qmenu" onMouseOver="delayShow(this,function(){showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a> 
+      
+       
+      
+       
+      <a id="sslct" href="javascript:;" onMouseOver="delayShow(this, function() {showMenu({'ctrlid':'sslct','pos':'34!'})});">切换风格</a> 
+      
+       
+    </div>
+  </div>
+</div>
+
+ 
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+  <li><a href="home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+  <li><a href="home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+  
+   
+   
+    <li class="ignore_noticeli"><a href="javascript:;" onClick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+  </ul>
+ 
+
+<div id="sslct_menu" class="cl p_pop" style="display: none;"> 
+  <span class="sslct_btn" onClick="extstyle('')" title="默认"><i></i> 默认</span> 
+   
+  <span class="sslct_btn" onClick="extstyle('./template/veikei_dz_life_20130920_color/style/default')" title="默认"><i style='background:#00aadd'></i> 默认 </span> 
+   
+  <span class="sslct_btn" onClick="extstyle('./template/veikei_dz_life_20130920_color/style/green')" title="春-清新绿意"><i style='background:#5a1'></i> 春-清新绿意 </span> 
+   
+  <span class="sslct_btn" onClick="extstyle('./template/veikei_dz_life_20130920_color/style/orange')" title="秋-橙色温馨"><i style='background:#fa1'></i> 秋-橙色温馨 </span> 
+   
+  <span class="sslct_btn" onClick="extstyle('./template/veikei_dz_life_20130920_color/style/red')" title="夏-靓丽红色"><i style='background:#c55'></i> 夏-靓丽红色 </span> 
+   
+</div>
+ <div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="home.php?mod=space&do=friend" style="background-image:url(http://10.0.0.3:8083/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="forum.php?mod=guide&view=my" style="background-image:url(http://10.0.0.3:8083/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="home.php?mod=magic" style="background-image:url(http://10.0.0.3:8083/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=space&do=favorite&view=me" style="background-image:url(http://10.0.0.3:8083/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(http://10.0.0.3:8083/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(http://10.0.0.3:8083/static/image/feed/task_b.png) !important">任务</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div> 
+ <div id="hd">
+  <div class="wp">
+    <div class="hdc cl"> 
+            <h2><a href="./" title="内网"><img src="template/veikei_dz_life_20130920_color/images/logo.png" alt="内网" border="0" /></a></h2>
+      
+      <div id="scbar_logo_r" class="y cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="b371ca8d" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="member::logging" />
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td class="scbar_txt_td">
+   	    <div id="search_input_show" onClick="showMenu({'ctrlid':'search_input_show','ctrlclass':'as','evt':'click','fade':1})">
+        <input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech />
+        </div>
+        </td>
+        <td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="showmenu xg1 xs2" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+        <td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" class="pn pnc" value="true"><strong class="xi2 xs2"> </strong></button></td>
+
+
+<!--
+        <td >
+        <div  class="search_post"> <a href="forum.php?mod=misc&amp;action=nav" onclick="showWindow('nav', this.href, 'get', 0)"> </a></div>
+        </td>
+-->
+      </tr>
+    </table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="article">文章</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="group">群组</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+ 
+    </div>
+  </div>
+  <div id="nv">
+    <ul>
+       
+            <li id="mn_portal" ><a href="portal.php" hidefocus="true" title="Portal"  >首页<span>Portal</span></a></li>
+       
+       
+            <li id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li>
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+            <li id="mn_F118" ><a href="/forum.php?mod=forumdisplay&fid=206" hidefocus="true"  >3+5</a></li>
+       
+       
+            <li id="mn_Nfba6" ><a href="/forum.php?mod=forumdisplay&fid=172" hidefocus="true"  >1+N</a></li>
+       
+       
+            <li id="mn_N499d" ><a href="/forum.php?mod=forumdisplay&fid=39" hidefocus="true"  >制度</a></li>
+       
+       
+            <li id="mn_N8162" ><a href="/dxt" hidefocus="true" target="_blank"  >大学堂</a></li>
+       
+       
+            <li id="mn_Nb1b3" ><a href="http://10.0.0.3:8083/nianhui2019/" hidefocus="true"  >2019年会盛典</a></li>
+       
+       
+            <li id="mn_N607b" ><a href="http://10.0.0.3:8083/sheying/sheying7" hidefocus="true"  >第七届书画摄影展</a></li>
+       
+       
+            <li id="mn_F169" ><a href="forum.php?mod=forumdisplay&fid=169" hidefocus="true"  >办事指南</a></li>
+       
+       
+            <li id="mn_N826c" ><a href="http://10.0.0.3:8083/forum.php?gid=231" hidefocus="true"  >办公应用</a></li>
+       
+          </ul>
+     
+  </div>
+  <script src="template/veikei_dz_life_20130920_color/images/nv.js" type="text/javascript"></script> 
+
+   
+  <div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div>  <div id="mu" class="cl"> 
+     
+     
+     
+     
+     
+  </div>
+  <!-- 自定义二级导航 -->
+<!--
+未来科技
+www.veikei.com
+-->
+
+<style type="text/css">
+.vk_nv_sub { width: 980px; margin: 0 auto; margin-top: 0px; margin-bottom: 0px; padding: 10px 0px; /*background: #fff; */ /* border:1px solid #ccc; border-top:none; box-shadow:1px 1px 3px #ccc; */  background:#fff url( template/veikei_dz_life_20130920_color/images/vk_nv_sub.gif) no-repeat;}
+.vk_nv_sub_item { float: left; display: inline-block; width: 244px /*320px*/;  /*margin-right: 20px;*/ overflow: hidden;  /* background-color: #fff;    border-radius:5px;*/  }
+/*	.ie6 .vk_nv_sub_item { background-color: #0ad;  }
+*/
+.vk_nv_sub_item_ct {    overflow: hidden;/* margin-right: 20px;  */ border-radius: 5px; }
+/*
+.bg_vk_shadow_230 { float: left; width: 230px; height: 20px; background:#0ad url( template/veikei_dz_life_20130920_color/images/bg_vk_shadow_230.gif) no-repeat center bottom;}
+*/
+.vk_right { float: right !important; margin-right: 0px !important; }
+
+
+/*
+.vk_color_bg_blue { border-bottom:3px solid #c1f1ff;   display: inline-block;}
+.vk_color_bg_green { border-bottom:3px solid #e5fda5;   display: inline-block; }
+.vk_color_bg_orange {  border-bottom:3px solid #ffeacb;   display: inline-block;}
+.vk_color_bg_red {  border-bottom:3px solid #ffc5c5;  display: inline-block; }
+*/
+/*
+.vk_color_bg_blue { border-bottom:3px solid #0ad;   display: inline-block;}
+.vk_color_bg_green { border-bottom:3px solid #9c0;   display: inline-block; }
+.vk_color_bg_orange {  border-bottom:3px solid #f90;   display: inline-block;}
+.vk_color_bg_red {  border-bottom:3px solid #c55;  display: inline-block; }
+*/
+.vk_nv_sub_item .icon_wp { float: left; display: inline-block; padding-top: 0px; width: 70px; height: 80px; overflow: hidden; color: #fff; font-size: 14px; text-align: center; }
+.vk_nv_sub_item .icon_wp p a { color: #fff; font-size: 16px; font-weight: bold; height: 30px; line-height: 30px; }
+/*
+.vk_nv_sub_item .icon { display: inline-block; margin: 10px 5px 0 5px; padding-top: 0px; width: 60px; height: 60px; }
+*/
+.vk_nv_sub_item .icon { display: inline-block; margin: 5px 0px 0 0px; padding-top: 0px; width: 70px; height: 70px; }
+
+.vk_nv_sub_item ul { width: 173px/*150px  240px*/; float: left; overflow: hidden; margin: 6px 0px 0 0px; }
+.vk_nv_sub_item ul li { float: left; width: 173px/*150px 80px*/; height: 30px; overflow: hidden; padding: 0px; margin: 0px;/* background:url( template/veikei_dz_life_20130920_color/images/vk_nv_sub_li_bg.gif) no-repeat 100% 0;*/ }
+.vk_nv_sub_item ul li a { float: left; width: 80px; height: 30px; line-height: 30px; text-align:center; padding: 0 ; font-size: 14px; color:#333 /* #fff*/; }
+.ie6 .vk_nv_sub_item ul li a { width: 80px /*150px*/; height: 30px; line-height: 30px; padding: 0 8px; }
+.vk_nv_sub_item ul li a:hover { color: #fff; background: #333; text-decoration: none; }
+.vk_nv_sub_item ul li.right { padding-right: 0; background: none; }
+.vk_nv_sub_item ul li.left { padding-left: 0; margin-left: 0px; clear:both; }
+
+.vk_icon_1 .icon { background:url( template/veikei_dz_life_20130920_color/images/vk_icon_1.gif) no-repeat;}
+.vk_icon_2 .icon { background:url( template/veikei_dz_life_20130920_color/images/vk_icon_2.gif) no-repeat;}
+.vk_icon_3 .icon { background:url( template/veikei_dz_life_20130920_color/images/vk_icon_3.gif) no-repeat;}
+.vk_icon_4 .icon { background:url( template/veikei_dz_life_20130920_color/images/vk_icon_4.gif) no-repeat;}
+</style>
+
+<div class="vk_nv_sub png cl">
+
+  <div class="vk_nv_sub_item vk_icon_1 cl vk_color_bg_blue">
+    <div class="vk_nv_sub_item_ct ">
+      <div class="icon_wp">
+ <div class="icon"></div>
+      </div>
+      <ul class="cl">
+      <li class="left">
+<a href="http://www.lmlq.com/"  style="margin-right: 10px;">黎明·中文站</a>
+<a href="http://www.break-day.com/" >黎明·英文站</a>
+  </li>
+      <li class="left">
+<a href="http://cn.kefid.com/"  style="margin-right: 10px;">科菲达·中文站</a>
+<a href="http://www.kefid.com/" >科菲达·英文站</a>
+  </li>
+       
+      </ul>
+    </div>
+  </div>
+  
+  
+  <div class="vk_nv_sub_item vk_icon_2 cl vk_color_bg_green">
+    <div class="vk_nv_sub_item_ct">
+      <div class="icon_wp">
+        <div class="icon"></div>
+      </div>
+      <ul class="cl">
+      <li class="left">
+<a href="http://10.0.0.3:8083/forum.php?mod=forumdisplay&amp;fid=39"  style="margin-right: 10px;">制度</a>
+<a href="http://10.0.0.3:8083/forum.php?mod=forumdisplay&amp;fid=147" >培训</a>
+  </li>
+      <li class="left">
+<a href="http://10.0.0.3:8083/forum.php?mod=forumdisplay&amp;fid=148"  style="margin-right: 10px;">文化</a>
+<a href="http://10.0.0.3:8083/forum.php?mod=forumdisplay&amp;fid=145" >聚焦</a>
+  </li>
+      
+      </ul>
+    </div>
+  </div>
+  
+  <div class="vk_nv_sub_item vk_icon_3 cl vk_color_bg_orange">
+    <div class="vk_nv_sub_item_ct">
+      <div class="icon_wp">
+      <div class="icon"></div>
+      </div>
+      <ul class="cl">
+      <li class="left">
+<a href="http://ch.gongchang.com/" style="margin-right: 10px;">世界工厂网</a>
+<a href="http://www.gongchang.cn/" > 工 厂 店 </a>
+  </li>
+      <li class="left">
+<a href="http://www.xidibuy.com/" style="margin-right: 10px;">喜 地</a>
+<a href="http://buy.gongchang.com/" > 工厂易购 </a>
+  </li>
+      
+      </ul>
+    </div>
+  </div>
+
+  <div class="vk_nv_sub_item vk_icon_4 cl vk_right vk_color_bg_red ">
+    <div class="vk_nv_sub_item_ct">
+      <div class="icon_wp">
+   <div class="icon"></div>
+      </div>
+      <ul class="cl">
+        <li class="left">
+<a href="http://www.ctrip.com/" style="margin-right: 10px;"> 机票查询 </a>
+<a href="http://12580.10086.cn/" > 酒店预订 </a>
+</li>
+        <li class="left">
+<a href="http://www.12306.cn/" style="margin-right: 10px;"> 购火车票 </a>
+<a href="http://mnks.jxedt.com/" > 驾照培训 </a>
+</li>
+    
+      </ul>
+    </div>
+  </div>
+  
+</div>
+ 
+   
+</div>
+
+ 
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_right">
+<p><script type="text/javascript" reload="1">if($('succeedmessage')) {$('succeedmessage').innerHTML = '';}</script><script type="text/javascript">setTimeout("window.location.href ='http://10.0.0.3:8083/./';", 3000);$('succeedmessage_href').href = 'http://10.0.0.3:8083/./';$('main_message').style.display = 'none';$('main_succeed').style.display = '';$('succeedlocation').innerHTML = '欢迎您回来，黎明骑士 2005536，现在将转入登录前页面';</script></p>
+<p class="alert_btnleft"><a href="http://10.0.0.3:8083/./">如果您的浏览器没有自动跳转，请点击此链接</a></p>
+</div>
+</div>
+</div>
+</div>	</div>
+<div class="ft_wp">
+<div id="ft" class="wp cl" style="color:#FFF">
+<div id="flk" class="y" style="color:#FFF">
+<p style="color:#FFF">
+<a href="misc.php?mod=stat"  style="color: green">内容维护:企业文化传播中心</a><span class="pipe" style="color:#FFF">|</span><a href="javascript:;"  style="color: green" onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">后台支持:信息化与信息安全部</a><span class="pipe" style="color:#FFF">|</span><a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe" style="color:#FFF">|</span><strong style="color:#FFF"><a href="" target="_blank" style="color:#FFF" >内网</a></strong>
+</p>
+<p class="xs0" style="color:#FFF">
+GMT+8, 2019-5-24 10:39<span id="debuginfo" style="color:#FFF">
+</span>
+</p>
+</div>
+<div id="frt">
+<p style="color:#FFF">Powered by <strong style="color:#FFF"><a href="http://www.discuz.net" target="_blank" style="color:#FFF">Discuz!</a></strong> <em>X3</em></p>
+<p class="xs0" style="color:#FFF">&copy; 2001--2013 <a href="http://www.comsenz.com" target="_blank" style="color:#FFF">Comsenz Inc.</a></p>
+</div></div></div>
+<script src="/home.php?mod=spacecp&ac=pm&op=checknewpm&rand=1558665569" type="text/javascript"></script>
+<script src="/home.php?mod=misc&ac=sendmail&rand=1558665569" type="text/javascript"></script>
+<div class="focus plugin" id="ip_notice"></div>
+<script type="text/javascript">ipNotice();</script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '|X3|0.6||0||3843|12|1558665569||2';
+			</script>
+			</body>
+</html>
